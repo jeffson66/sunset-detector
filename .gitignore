@@ -1,52 +1,26 @@
-# Prerequisites
-*.d
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+# Icon?
+Icon
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# Thumbnails
+._*
 
-# Precompiled Headers
-*.gch
-*.pch
+# macOS folder attributes
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+# Files that might appear on network shares
+ehthumbs.db
+Desktop.ini
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# Apple metadata files
+*.AppleDouble
+.DocumentRevisions-V100
+.fseventsd
+.TemporaryItems
+.apdisk
